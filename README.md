@@ -21,4 +21,4 @@
 
 ## 🤝 Connect with me
 
-[![kamalov.fr](https://img.shields.io/badge/kamalov.fr-Code?style=for-the-badge&logo=keras&logoColor=white&color=004024)](https://kamalov.fr)
+[![kamalov.fr](https://img.shields.io/badge/kamalov.fr-Code?style=for-the-badge&logo=keras&logoColor=white&color=004225)](https://kamalov.fr)
