@@ -21,4 +21,4 @@
 
 ## 🤝 Connect with me
 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white) ](https://www.behance.net/f4rrukh)[![kamalov.fr](https://img.shields.io/badge/kamalov.fr-Code?style=for-the-badge&logo=keras&logoColor=white&color=003CFF) ](https://kamalov.fr)
+[![kamalov.fr](https://img.shields.io/badge/kamalov.fr-Code?style=for-the-badge&logo=keras&logoColor=white&color=004024)](https://kamalov.fr)
